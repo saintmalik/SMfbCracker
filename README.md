@@ -12,6 +12,8 @@ git clone https://github.com/saintmalik/SMfbcrack
 
 cd SMfbcrack
 
+pip2 install mechanize
+
 python2 SMfb.py
 
 
