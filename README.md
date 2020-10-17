@@ -1,6 +1,4 @@
-# SMfbCracker
-
-Installation
+### Installation Guide
 
 apt update
 
