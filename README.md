@@ -1,4 +1,4 @@
-SMfbcrack is a simple script to run wordlist od possible password against a facebook account.
+SMfbcrack is a simple script to run wordlist of possible password against a facebook account.
 
 ### Installation Guide
 
