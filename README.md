@@ -1,17 +1,15 @@
 ### Installation Guide
 
-apt update
+1. apt update && apt upgrade
 
-apt upgrade
+2. apt install python2
 
-apt install python2
+3. git clone https://github.com/saintmalik/SMfbcrack
 
-git clone https://github.com/saintmalik/SMfbcrack
+4. cd SMfbcrack
 
-cd SMfbcrack
+5. pip2 install mechanize
 
-pip2 install mechanize
-
-python2 SMfb.py
+6. python2 SMfb.py
 
 
