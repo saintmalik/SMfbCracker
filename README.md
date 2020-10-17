@@ -1,3 +1,5 @@
+SMfbcrack is a simple script to run wordlist od possible password against a facebook account.
+
 ### Installation Guide
 
 1. apt update && apt upgrade
